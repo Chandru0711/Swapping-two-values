@@ -27,8 +27,8 @@ End the program
 ## PROGRAM:
 ```python
 #Program to swap two values.
-#Developed by: priyadharshini
-#RegisterNumber:22008758
+#Developed by: CHANDRU SM
+#RegisterNumber:212223230034
 n1=input()
 n2=input()
 temp=n2
@@ -39,7 +39,7 @@ print("Swapped values are: {} {}".format(n1,n2))
 ```
 
 ## Output:
-![](./swapping.png)
+![image](https://github.com/Chandru0711/Swapping-two-values/assets/144979368/3b70fb1d-272e-4bea-8cf3-ffeca2a44330)
 
 ## RESULT:
 
