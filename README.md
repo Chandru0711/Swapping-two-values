@@ -26,20 +26,20 @@ End the program
 
 ## PROGRAM:
 ```python
-#Program to swap two values.
-#Developed by: CHANDRU SM
-#RegisterNumber:212223230034
-n1=input()
-n2=input()
-temp=n2
-n2=n1
-n1=temp
+#developed by CHANDRU SM
+#REG:212223230034
 
-print("Swapped values are: {} {}".format(n1,n2))
+suriya=input()
+vijay=input()
+temp=suriya
+suriya=vijay
+vijay=temp
+print("Swapped values are:",suriya,vijay)
 ```
 
 ## Output:
-![image](https://github.com/Chandru0711/Swapping-two-values/assets/144979368/3b70fb1d-272e-4bea-8cf3-ffeca2a44330)
+
+![Screenshot 2024-05-09 132544](https://github.com/Chandru0711/Swapping-two-values/assets/144979368/9b67a79d-65be-4ddf-8f21-c08f2f2c6e43)
 
 ## RESULT:
 
